@@ -30,6 +30,7 @@ public class Main {
 
         System.out.println("O nome do filme é: " + filme.nome + " e o ano de lançamento é: " + filme.ano);
         System.out.println("O nome do filme é: " + filme2.nome + " e o ano de lançamento é: " + filme2.ano);
+        System.out.println("Olá, meu nome é " + aluno.nome + " e tenho " + aluno.idade + " anos");
         System.out.println("Olá, meu nome é " + aluno2.nome + " e tenho " + aluno2.idade + " anos");
 
     }
